@@ -1,4 +1,4 @@
-p{
+/* p{
     color: red;
     font-size: 25px;
 }
@@ -15,4 +15,29 @@ div{
     text-align: center;
     align-content: center;
     padding: 5px;
+    margin: 10px 200px;
+    border: 1px solid red;
+}
+
+.ass1{
+    align-content: center;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 20px 150px;
+    background-color: lightgrey;} */
+
+div{
+    padding: 10px;
+    border:2px solid black;
+    height:300px ;
+    width: 800px;
+}
+.tk2{
+ text-align: center;
+   align-content: center;
+   border: 30px blue solid;
+   background-color: yellow;
+   
+   height: 100px;
+   width: 700px; 
 }
