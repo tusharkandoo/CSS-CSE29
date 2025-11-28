@@ -26,7 +26,7 @@ div{
     margin: 20px 150px;
     background-color: lightgrey;} */
 
-div{
+/* div{
     padding: 10px;
     border:2px solid black;
     height:300px ;
@@ -39,5 +39,54 @@ div{
    background-color: yellow;
    
    height: 100px;
-   width: 700px; 
+   width: 700px;
+} */
+/* span{
+    display: block;
+    
+}
+div {
+    display: inline;
+} */
+/* div {
+    display: inline-block;
+} */
+/* .container{
+    display: inline-block;
+    border: 2px solid black;
+    height: 450px;
+    width: 800px;
+}
+.box{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+
+}
+.box1{
+    background-color: yellowgreen;
+    
+}
+.box2{
+    background-color: brown;
+}
+.box3{
+    background-color: aqua;
+} */
+
+div{
+    background-color: pink;
+    
+}
+p{
+    font-size: 20px;
+    float: right;
+    padding: 10px;
+}
+img{
+    height: 250px;
+    width: 250px;
+
 }
